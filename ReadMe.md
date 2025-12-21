@@ -64,7 +64,7 @@ I focus on writing clean, maintainable code and designing systems that perform w
 
 ## 🌐 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/lakshyatiwari1/  
-- 🐦 X (Twitter): https://x.com/Lakshya_tiwari_ 
+- 🐦 X (Twitter): https://x.com/Lakshya_tiwari_/
 
 ---
 
